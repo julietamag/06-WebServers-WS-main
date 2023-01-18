@@ -1,0 +1,26 @@
+{
+  "name": "06-webservers",
+  "version": "1.0.0",
+  "description": "servers workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plataforma5/06-WebServers.git"
+  },
+  "author": "Plataforma 5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plataforma5/06-WebServers/issues"
+  },
+  "homepage": "https://github.com/Plataforma5/06-WebServers#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.7"
+  }
+}
